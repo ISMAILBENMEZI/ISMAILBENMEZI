@@ -40,19 +40,16 @@ I am a disciplined **Full-Stack Developer** based in Morocco, balancing **Law st
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ISMAILBENMEZI&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="Ismail's Stats" />
-  
-  <br/> <br/>
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ISMAILBENMEZI&theme=highcontrast&hide_border=false" alt="Ismail's Streak" />
-  
-  <br/> <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISMAILBENMEZI&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ISMAILBENMEZI&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Ismail's Trophies" />
+  </a>
 </div>
 
+---
+
+### 📊 Activity Graph
 <div align="center">
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISMAILBENMEZI&theme=tokyo-night" width="100%"/>
