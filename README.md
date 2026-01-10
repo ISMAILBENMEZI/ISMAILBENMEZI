@@ -40,14 +40,14 @@ I am a disciplined **Full-Stack Developer** based in Morocco, balancing **Law st
 
 ---
 
-### 📊 GitHub Stats (The Serious Stuff)
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ISMAILBENMEZI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISMAILBENMEZI&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISMAILBENMEZI&theme=tokyo-night" width="100%"/>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=ISMAILBENMEZI&show_icons=true&theme=tokyonight&hide_border=true" alt="Ismail's GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISMAILBENMEZI&layout=compact&theme=tokyonight&hide_border=true" alt="Ismail's Top Languages" />
+  </p>
 </div>
 
 ---
