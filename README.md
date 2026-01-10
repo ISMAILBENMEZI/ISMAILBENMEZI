@@ -40,11 +40,11 @@ I am a disciplined **Full-Stack Developer** based in Morocco, balancing **Law st
 
 ---
 
-### 🏆 GitHub Trophies
+### 🧩 My Coding Mood
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ISMAILBENMEZI&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Ismail's Trophies" />
-  </a>
+  <img src="https://media.giphy.com/media/hrRJ41JB2zlg0wImHN/giphy.gif" width="400" alt="Coding GIF" />
+  <br/>
+  <i>When the code works on the first try... suspiciously.</i>
 </div>
 
 ---
