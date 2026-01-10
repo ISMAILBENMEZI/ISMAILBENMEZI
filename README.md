@@ -40,13 +40,21 @@ I am a disciplined **Full-Stack Developer** based in Morocco, balancing **Law st
 
 ---
 
-### 📊 GitHub Stats (The Serious Stuff)
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ISMAILBENMEZI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISMAILBENMEZI&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ISMAILBENMEZI&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="Ismail's Stats" />
+  
+  <br/> <br/>
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ISMAILBENMEZI&theme=highcontrast&hide_border=false" alt="Ismail's Streak" />
+  
+  <br/> <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISMAILBENMEZI&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 <div align="center">
+  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISMAILBENMEZI&theme=tokyo-night" width="100%"/>
 </div>
 
