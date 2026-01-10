@@ -1,85 +1,56 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Ismail+Benmezi+👋;Full-Stack+Developer;Building+Scalable+Solutions;PHP+%26+SQL+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Ismail+Benmezi+👋;Full-Stack+Developer;Law+Student+Turned+Coder;PHP+%26+SQL+Enthusiast" alt="Typing SVG" />
   </a>
 
   <br/>
 
   <p align="center">
-    Combining <b>Legal Logic</b> with <b>Software Engineering</b> to build robust applications. <br>
-    <i>Disciplined Developer | Problem Solver | Lifelong Learner</i>
+    Currently navigating the world of <b>Full-Stack Development</b> while studying <b>Law</b>. <br>
+    <i>"In Law, I argue with judges. In Code, I argue with the compiler... <br> and the compiler usually wins." 😅</i>
   </p>
 
   <br/>
 
   <a href="https://ismailbenmezi.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/🚀_View_My_Full_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/✨_View_My_Portfolio_Website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="40" />
   </a>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
-I am a **Full-Stack Developer** based in Morocco, currently balancing **Law studies at Cadi Ayyad University** with intensive technical training at **YouCode (UM6P)**.
-* 🔭 **Focus:** Building clean, secure, and scalable **PHP & MySQL** architectures.
-* 🌱 **Learning:** Advanced MVC, Clean Code principles, and System Design.
-* 💼 **Goal:** Seeking an internship to apply my technical and analytical skills.
+### 🧐 About Me
+I am a disciplined **Full-Stack Developer** based in Morocco, balancing **Law studies at Cadi Ayyad** with intensive technical training at **YouCode (UM6P)**.
+* 🔭 I’m currently working on building scalable **PHP & MySQL** applications.
+* 🌱 I’m currently learning **Advanced MVC patterns & Clean Code**.
+* ⚡ **Fun fact:** I can debug code and analyze legal contracts. I look for loopholes in both!
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Tech Stack & Tools
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=php" width="45" alt="PHP" /><br>PHP
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL" /><br>MySQL
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=js" width="45" alt="JS" /><br>JavaScript
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=c" width="45" alt="C" /><br>C Lang
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML" /><br>HTML5
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS" /><br>CSS3
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=laravel" width="45" alt="Laravel" /><br>Laravel
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind" /><br>Tailwind
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="45" alt="Bootstrap" /><br>Bootstrap
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=git" width="45" alt="Git" /><br>Git
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" /><br>GitHub
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VSCode" /><br>VS Code
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=php,c,html,css,js" height="50" alt="languages" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,mysql" height="50" alt="frameworks" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=git,github,jira,vscode" height="50" alt="tools" />
 </div>
 
 ---
 
-### 📉 Contributions & Activity
+### 💻 Coding Mode
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISMAILBENMEZI&theme=react&bg_color=0D1117&hide_border=true" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400" alt="Coding Animation" />
+</div>
+
+---
+
+### 📊 Activity Graph
+<div align="center">
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISMAILBENMEZI&theme=tokyo-night" width="100%"/>
 </div>
 
 ---
@@ -92,7 +63,10 @@ I am a **Full-Stack Developer** based in Morocco, currently balancing **Law stud
   <a href="mailto:ismailbenmezi500@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/ISMAILBENMEZI">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://discord.com/users/038534_">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/i_benmezi">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
